@@ -23,22 +23,7 @@ if(x=="1"){xxx="/2017/12/in-certain-patients-dengue-vaccine-may.html"}
 if(x=="2"){xxx="/2017/12/foods-containing-high-calcium.html"}
 if(x=="3"){xxx="/2017/12/healthy-breakfast-menu-in-morning.html"}
 if(x=="4"){xxx="/2017/12/how-to-increase-weight-naturally-and.html"}
-if(x=="5"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="6"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="7"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="8"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="9"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="10"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="11"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="12"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="13"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="14"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="15"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="16"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="17"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="18"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="19"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}
-if(x=="20"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}a_to_ve[i].href="http://pengalihantamvan.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}a_to_ve[i].href="http://pengalihantamvan.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
