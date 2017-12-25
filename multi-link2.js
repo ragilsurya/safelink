@@ -18,12 +18,11 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*20)+ 1);var xxx=null;
-if(x=="1"){xxx="/2017/12/in-certain-patients-dengue-vaccine-may.html"}
-if(x=="2"){xxx="/2017/12/foods-containing-high-calcium.html"}
-if(x=="3"){xxx="/2017/12/healthy-breakfast-menu-in-morning.html"}
-if(x=="4"){xxx="/2017/12/how-to-increase-weight-naturally-and.html"}
-if(x=="5"){xxx="/2017/12/keeping-natural-facial-cleaning.html"}a_to_ve[i].href="http://pengalihantamvan.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);
+var x=Math.floor((Math.random()*5)+ 1);
+var xxx=null;
+if(x=="1"){xxx="/2017/12/why-many-people-want-plastic-surgery.html"}
+if(x=="2"){xxx="/2017/12/natural-ways-to-remove-accidents-with.html"}a_to_ve[i].href="http://www.brosensenews.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
