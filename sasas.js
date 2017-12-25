@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "http://brosensenews.blogspot.com/2017/12/natural-ways-to-remove-accidents-with.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://brosensenews.blogspot.com/2017/12/natural-ways-to-remove-accidents-with.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
