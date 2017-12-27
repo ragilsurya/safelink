@@ -21,12 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/11/pohon-purba-yang-indah-di-sambelia.html"}
-if(x=="2"){xxx="/2017/11/uber-mengklarifikasi-kebijakan-privasi.html"}
-if(x=="3"){xxx="/2017/11/rumor-transfer-sepakbola-daniel.html"}
-if(x=="4"){xxx="/2017/11/apakah-anda-sensitif-terhadap-orang.html"}
-if(x=="5"){xxx="/2017/11/industri-inggris-tidak-mati-ini-hanya.html"}
-if(x=="6"){xxx="/2017/12/versi-murah-dari-xiaomi-mi-note-3.html"}a_to_ve[i].href="http://www.safelinkgo.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2017/12/what-is-bitcoin.html"}
+if(x=="2"){xxx="/2017/12/how-to-dual-monitors-with-smartphones.html"}
+if(x=="3"){xxx="/2017/12/how-to-view-temperature-of-computer.html"}
+a_to_ve[i].href="http://www.badaktech.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
