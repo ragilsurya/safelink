@@ -25,8 +25,7 @@ if(x=="1"){xxx="/2018/01/how-to-save-files-in-google-drive-easily.html"}
 if(x=="2"){xxx="/2018/01/difficult-sandra-dewi-collect-droplets.html"}
 if(x=="3"){xxx="/2018/01/intel-coffee-lake-intels-latest.html"}
 if(x=="4"){xxx="/2018/01/5-lightest-android-browser-your-browser.html"}
-if(x=="5"){xxx="/2018/01/after-oreo-is-name-used-for-android-p.html"}
-if(x=="6"){xxx="/2018/01/how-to-save-internet-quota-4g-to-not.html"}a_to_ve[i].href="https://idnlink.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/01/after-oreo-is-name-used-for-android-p.html"}a_to_ve[i].href="http://www.idnlink.ml"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
