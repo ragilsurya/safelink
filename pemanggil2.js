@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/01/proven-it-turned-out-that-toothbrush.html"}
 if(x=="2"){xxx="/2018/01/how-to-increase-sexual-passion-in-women.html"}
 if(x=="3"){xxx="/2018/01/apparently-stone-sugar-is-not-more.html"}
 if(x=="4"){xxx="/2018/01/rows-of-condom-use-mistakes-frequently.html"}
-if(x=="5"){xxx="/2018/01/should-carefully-utilize-herbal.html"}a_to_ve[i].href="http://www.santenadak.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/01/should-carefully-utilize-herbal.html"}a_to_ve[i].href="https://santenadak.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
