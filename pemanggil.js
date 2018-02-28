@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/01/how-to-save-files-in-google-drive-easily.html"}
-if(x=="2"){xxx="/2018/01/difficult-sandra-dewi-collect-droplets.html"}
-if(x=="3"){xxx="/2018/01/intel-coffee-lake-intels-latest.html"}
-if(x=="4"){xxx="/2018/01/5-lightest-android-browser-your-browser.html"}
-if(x=="5"){xxx="/2018/01/after-oreo-is-name-used-for-android-p.html"}a_to_ve[i].href="http://www.idnlink.ml"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/02/peluncuran-telepon-konsep-vivo-apex-5.html"}
+if(x=="2"){xxx="/2018/02/moto-e5-plus-stuns-in-leaked-official.html"}
+if(x=="3"){xxx="/2018/02/vernee-apollo-2-secara-resmi-melakukan.html"}
+if(x=="4"){xxx="/2018/02/chuwi-hi9-akan-ditawarkan-di-banggood.html"}
+if(x=="5"){xxx="/2018/02/motorola-razr-hadir-kembali-mungkin.html"}a_to_ve[i].href="https://www.evodroid.me"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
